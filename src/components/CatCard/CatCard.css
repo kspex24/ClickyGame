@@ -1,0 +1,45 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 250px;
+  margin: 1rem;
+  position: relative;
+  width: 250px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  background: powderblue;
+}
+.card > .img-container > img {
+  width: 95%;
+  height: 95%;
+  padding: 15px;
+}
+
+/* .card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+} */
+
+/* .card > .content > ul {
+  list-style-type: none;
+} */
+
+/* .card > .content > ul > li {
+  margin-top: 18px;
+} */
+
+.card > .select {
+  color: #ff1744;
+  position: absolute;
+  /* top: -20px;
+  right: 5px; */
+  cursor: pointer;
+}
+
+.card > .select:hover {
+  color: #d50000;
+}

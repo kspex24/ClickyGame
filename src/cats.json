@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "http://geekologie.com/2017/12/13/merlin-the-angry-cat-6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40kiXQjn2RfY1ZDsZzLbMDiXhUMuT7HNKE-UOPwlfcJsU2BhrAg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "http://purrfectcatbreeds.com/wp-content/uploads/2014/05/russian-blue1.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "http://www.catster.com/wp-content/uploads/2018/01/Ragdoll-cat-on-blue-backdrop-.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://www.warrenphotographic.co.uk/photography/bigs/20648-Lilac-bicolour-Ragdoll-cat-lying-with-head-up.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.pinimg.com/originals/ce/13/9e/ce139e1bde18ca56d041a5e3eda49792.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "http://www.hoobly.com/big/Izb6N1jcSR.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "http://www.catster.com/wp-content/uploads/2017/11/Ticked-Agouti-tabby-cat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/warriorcatclansrp/images/1/10/Cute-orange-tabby-cats-brown-tabby-cat-orange-and-white-tabby-cat-with-blue-eyes-cute-tabby-cat-black-tabby-cat.jpg/revision/latest/scale-to-width-down/2000?cb=20170311094355",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/portrait-gray-tabby-cat-maika-777.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://pbs.twimg.com/media/DSAS1uAWkAENbFI.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "http://iheartcats.com/wp-content/uploads/2017/02/Seal-point-longhair.jpg",
+    "clicked": false
+  }
+]
