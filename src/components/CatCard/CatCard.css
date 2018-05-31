@@ -32,11 +32,11 @@
   margin-top: 18px;
 } */
 
-.card > .select {
+.card > .select:active {
   color: #ff1744;
   position: absolute;
-  /* top: -20px;
-  right: 5px; */
+  top: -20px;
+  right: 5px;
   cursor: pointer;
 }
 
